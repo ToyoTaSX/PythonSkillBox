@@ -1,0 +1,1 @@
+print(str.join("\n", reversed(input().split('.'))))
